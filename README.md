@@ -9,7 +9,7 @@ In this article, we will analyze TradeEU’s regulation, security, trading instr
 
 
 
-![image]()
+![image](https://github.com/Trader-review/TradeEU-scam-review/blob/6e9788f259e3a353a01e2960ff325220ad4753e0/tradeeu%20home%20page.png)
 
 Is TradeEU a Scam? Analyzing Its Legitimacy
 --------------------
