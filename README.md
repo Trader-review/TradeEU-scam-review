@@ -106,7 +106,9 @@ User Reviews – What Are Traders Saying?
 To get a clearer picture of TradeEU’s reputation, we analyzed online reviews. Here’s what traders are saying:
 
 💬 Mark R. (⭐⭐⭐⭐⭐) – “TradeEU has been great for forex trading. Execution speed is fast, and withdrawals have been smooth.”
+
 💬 Lisa M. (⭐⭐⭐⭐) – “Decent spreads and a solid trading platform. I had a minor issue with my first withdrawal, but it was resolved quickly.”
+
 💬 James T. (⭐⭐⭐) – “The platform is good, but I wish they had MetaTrader 4 or 5 support.”
 
 Takeaway: The most common complaint among users is delays in first-time withdrawals, which is standard among regulated brokers due to KYC verification.
